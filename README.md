@@ -98,6 +98,8 @@ Jika operator valid dan operasi berhasil dilakukan, kode mencetak hasil perhitun
 
 # Flowchart
 
+![WhatsApp Image 2024-10-31 at 09 14 25_93f07385](https://github.com/user-attachments/assets/2cabcf3e-3cb1-4eb5-a4f1-aed03979e781)
+
 
 
 
