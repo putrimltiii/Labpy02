@@ -80,6 +80,24 @@ Program menampilkan total harga yang harus dibayar dengan format "Total harga ya
 
 ![WhatsApp Image 2024-10-31 at 09 14 25_dcef685c](https://github.com/user-attachments/assets/45e49397-71ff-4800-bc7c-eb4884772981)
 
+![ss bespem 5](https://github.com/user-attachments/assets/56e2b8ec-e448-4893-9c61-d5c3aa4e0125)
+
+Kode program ini dirancang untuk melakukan operasi aritmatika sederhana berdasarkan input pengguna. Berikut penjelasan kode secara detail:
+
+# Input:
+
+Kode program meminta pengguna untuk memasukkan operator aritmatika (+, -, *, /) dan dua angka. 
+
+# Validasi Operator: 
+
+Kode menggunakan struktur if-elif-else untuk memvalidasi operator yang dimasukkan. Operasi Aritmatika: Berdasarkan operator yang valid, kode melakukan operasi aritmatika yang sesuai dan menyimpan hasilnya dalam variabel hasil. Validasi Pembagian dengan Nol: Kode mengecek apakah angka kedua adalah nol untuk menghindari pembagian dengan nol. Jika angka kedua nol, program akan menampilkan pesan error dan menghentikan eksekusi. 
+
+# Output: 
+
+Jika operator valid dan operasi berhasil dilakukan, kode mencetak hasil perhitungan ke layar. Jika operator tidak valid atau terjadi pembagian dengan nol, kode mencetak pesan error. Secara keseluruhan, kode ini mengilustrasikan penggunaan struktur kontrol if-elif-else untuk membuat program sederhana yang dapat melakukan operasi aritmatika dasar.
+
+# Flowchart
+
 
 
 
