@@ -1,6 +1,7 @@
 # Labpy02
 
 ![ss baspem1](https://github.com/user-attachments/assets/5654fc6a-597e-4282-854e-ee0b6938eb36)
+
 Langkah-langah:
 
 # Input Data:
@@ -46,6 +47,21 @@ python Copy code else: print("Gaji belum UMR") Jika gaji tidak lebih dari 3.000.
 Hasil Program: Pada contoh output di sisi kanan gambar, jika gaji 5.000.000, status berkeluarga "Y", dan punya rumah "Y":
 
 Program menampilkan bahwa gaji di atas UMR. Menampilkan bahwa pengguna wajib ikut asuransi dan menabung untuk pensiun. Menampilkan bahwa pengguna wajib membayar pajak rumah.
+
+![ss baspem3](https://github.com/user-attachments/assets/62f35a0e-1c93-4f72-ab37-20e5f5825bf8)
+
+# Langkah-langkah
+
+python Copy code a = int(input("Masukkan bilangan A: ")) b = int(input("Masukkan bilangan B: ")) c = int(input("Masukkan bilangan C: ")) Kode ini meminta pengguna untuk memasukkan tiga bilangan: a, b, dan c. Input dari pengguna dikonversi ke tipe int agar dapat digunakan dalam operasi aritmatika. Pengecekan Kondisi:
+
+python Copy code if a + b == c or b + c == a or c + a == b: print("BENAR") else: print("SALAH") Kode ini memeriksa apakah salah satu dari kondisi berikut terpenuhi: a + b == c b + c == a c + a == b Jika salah satu kondisi di atas benar, program akan mencetak "BENAR". Jika tidak ada kondisi yang terpenuhi, program akan mencetak "SALAH". Penjelasan Logika:
+
+Kode ini mengecek apakah salah satu dari tiga bilangan (a, b, atau c) dapat merupakan hasil penjumlahan dari dua bilangan lainnya. Pada contoh output di sebelah kanan gambar: Jika a = 100, b = 50, dan c = 200, maka tidak ada kondisi yang terpenuhi, sehingga hasilnya adalah "SALAH".
+
+Kode Python di atas adalah program untuk menghitung total harga tiket bioskop. Program ini meminta input dari user untuk tipe tiket (reguler atau VIP) dan status member (memiliki kartu member atau tidak).
+
+
+
 
 
 
