@@ -76,6 +76,8 @@ Program memeriksa nilai status_member: Jika status_member adalah "ya", maka tota
 
 Program menampilkan total harga yang harus dibayar dengan format "Total harga yang harus dibayar: Rp(total_harga)" menggunakan fungsi print().
 
+![WhatsApp Image 2024-10-31 at 09 14 25_93f07385](https://github.com/user-attachments/assets/2cabcf3e-3cb1-4eb5-a4f1-aed03979e781)
+
 
 
 
