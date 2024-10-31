@@ -43,7 +43,7 @@ python Copy code if punya_rumah: print("Wajib bayar pajak rumah") else: print("T
 
 python Copy code else: print("Gaji belum UMR") Jika gaji tidak lebih dari 3.000.000, program akan langsung menampilkan "Gaji belum UMR" tanpa melakukan pengecekan tambahan.
 
-Hasil Program: Pada contoh output di sisi kanan gambar, jika gaji 4.000.000, status berkeluarga "Y", dan punya rumah "Y":
+Hasil Program: Pada contoh output di sisi kanan gambar, jika gaji 5.000.000, status berkeluarga "Y", dan punya rumah "Y":
 
 Program menampilkan bahwa gaji di atas UMR. Menampilkan bahwa pengguna wajib ikut asuransi dan menabung untuk pensiun. Menampilkan bahwa pengguna wajib membayar pajak rumah.
 
